@@ -7,4 +7,4 @@ To train our model, we use train.py
 
 
 To train our model, we should put the train data into the ./train folder and put the word vectors into the ./word_embding folder.
-To train your model, we propose the format is the same as that in the file.
+To train your model, we proposal the format is the same as that in the file.
